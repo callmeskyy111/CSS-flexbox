@@ -446,3 +446,38 @@ Instead of `margin-right`, just use `gap`:
 ✅ Scales text with screen width but never gets too small or too big.
 
 ---
+
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/18ce02f7-b944-4c4d-bcd8-8155ff4c43b2" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/78c84473-a51b-49b5-8d9f-22081352acca" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/e68d6ce4-3950-461f-970a-b0d572ede347" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/1087e03f-09f9-4e33-af8f-a6ce3d9c5992" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/229a44ef-a16c-458b-a54c-dee724808c66" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/a979a752-e21e-44ff-a1ed-af597126a066" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/8bce243d-5a18-414e-92ae-e4fbb78d2d81" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/b02692ff-9edd-45c8-8550-594e36530cd8" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/89abeb8a-21d6-48f0-a379-8560f61cdd62" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/8a53afd6-7d23-4883-ab63-b64c3e4f2ae9" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/bf44086d-8ce1-46b0-927c-faf3be678947" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/23c9d84f-4309-40c2-97d7-72b11b1e8855" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/a6671b58-6424-4bcb-bbbe-4502788d0f49" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/8e1c5ef1-a557-414c-b46e-887881199a97" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/9f2a9e16-28b2-47ca-844a-db06018b7e7a" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/8bf640f9-8cb8-4f4a-be32-6cbf08ce9d0d" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/89c08ce2-40b7-4262-b43b-b41148a3259b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
