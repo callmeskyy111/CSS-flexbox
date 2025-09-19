@@ -4,6 +4,14 @@ body {
 
 .container {
   border: 6px solid black;
+  display: flex;
+  /* flex-direction: column; */
+  /* flex-wrap: wrap; */
+  /* height: 400px;  */
+  /* flex-flow: row-reverse nowrap; */
+  /* column-gap: 10px; */
+  /* row-gap: 30px; */
+  /* gap:40px 30px; */
 }
 
 .flex-item {
@@ -37,6 +45,6 @@ body {
 .item-8 {
   background-color: #1d702b;
 }
-.item-9{
-    background-color: #1b1d8de3;
+.item-9 {
+  background-color: #1b1d8de3;
 }
