@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+.container {
+  border: 6px solid black;
+}
+
+.flex-item {
+  color: white;
+  font-size: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.item-1 {
+  background-color: #b4bf35;
+}
+.item-2 {
+  background-color: #bf7535;
+}
+.item-3 {
+  background-color: #3735bf;
+}
+.item-4 {
+  background-color: #bf353c;
+}
+.item-5 {
+  background-color: #3ebf35;
+}
+.item-6 {
+  background-color: #bf3561;
+}
+.item-7 {
+  background-color: #ab5ece;
+}
+.item-8 {
+  background-color: #1d702b;
+}
+.item-9{
+    background-color: #1b1d8de3;
+}
